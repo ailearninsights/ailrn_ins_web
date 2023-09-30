@@ -4,12 +4,12 @@ AI Learn Insights substack newsletter and podcast series provides in-depth revie
 
 
 
-
+<br>
 
 
 
 
 ```{image} fourpillars.png
-:width: 850px
+:width: 550px
 :align: center
 ```
