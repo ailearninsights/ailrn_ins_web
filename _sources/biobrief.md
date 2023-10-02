@@ -9,7 +9,7 @@
 :align: left
 ```
 
-Patrick Methvin is Director, Postsecondary Success at Bill & Melinda Gates Foundation. He oversees work designed to significantly increase the number of Americans achieving a post-high school credential and eliminate educational attainment disparities by race and income. 
+Patrick Methvin is [Director, Postsecondary Success at Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/about/leadership/patrick-methvin). He oversees work designed to significantly increase the number of Americans achieving a post-high school credential and eliminate educational attainment disparities by race and income. 
 
 Patrick holds an MBA from the Wharton School, a Master in Educational Leadership from the University of Pennsylvania, and a B.A. in Economics and Political Science from the University of North Carolina, where he was a Morehead Scholar.
 <br><br>
@@ -21,7 +21,7 @@ ___
 :width: 150px
 :align: left
 ```
-Alyssa Wise is professor of technology and education and director of the Learning Incubator: A Vanderbilt Endeavor (LIVE). Wise’s research combines the tools of data science, the theory of learning sciences and the practices of human-centered design to build and study the use of learning analytics systems that promote equitable and effective education. 
+Alyssa Wise is [Professor of Technology and Education](https://peabody.vanderbilt.edu/bio/?pid=alyssa-wise) and Director of the Learning Incubator: A Vanderbilt Endeavor (LIVE) at Vanderbilt University. Wise’s research combines the tools of data science, the theory of learning sciences and the practices of human-centered design to build and study the use of learning analytics systems that promote equitable and effective education. She also conducts mixed-method investigations about how educational practices are being reshaped by new sources of data and the growing availability of new artificial intelligence capabilities.
 
 Alyssa holds a Ph.D. in learning sciences and M.S. in instructional systems technology from Indiana University, as well as a B.S. in chemistry from Yale University.
 <br><br>
@@ -35,7 +35,7 @@ Alyssa holds a Ph.D. in learning sciences and M.S. in instructional systems tech
 :align: left
 ```
 
-Tristan Denley currently serves as Deputy Commissioner for Academic Affairs and Innovation at the Louisiana Board of Regents. His work uses a data informed approach to implement a wide variety of state-wide initiatives surrounding college completion, stretching from education redesign in a variety of disciplines, to the role of predictive analytics and data mining, cognitive psychology and behavioral economics in higher education. Amongst his most recent work has been the development and implementation of a comprehensive system-scale student success strategy, the Momentum Year, that transforms developmental education and advising. Implementation of the Momentum Year in Georgia increased system-wide 4yr graduation rates by 20%, and by 30% for African American students.
+Tristan Denley currently serves as [Deputy Commissioner for Academic Affairs and Innovation](https://completecollege.org/person/tristan-denley/) at the Louisiana Board of Regents. His work uses a data informed approach to implement a wide variety of state-wide initiatives surrounding college completion, stretching from education redesign in a variety of disciplines, to the role of predictive analytics and data mining, cognitive psychology and behavioral economics in higher education. Amongst his most recent work has been the development and implementation of a comprehensive system-scale student success strategy, the Momentum Year, that transforms developmental education and advising. Implementation of the Momentum Year in Georgia increased system-wide 4yr graduation rates by 20%, and by 30% for African American students.
 
 Tristan earned his PhD in Mathematics from Trinity College Cambridge. 
 
