@@ -136,3 +136,15 @@ Charles Dziuban is Director of the Research Initiative for Teaching Effectivenes
 Patsy D. Moskal is Director of the Digital Learning Impact Evalulation at the Research Initiative for Teaching Effectiveness at the University of Central Florida (UCF). Since 1996, she has served as the liaison for faculty research of distributed learning and teaching effectiveness at UCF. Patsy specializes in statistics, graphics, program evaluation, and applied data analysis. S
 
 She holds a MS in Computer Science and a Doctor of Education (Ed.D) in Curriculum and Instruction, both from University of Central Florida
+
+---
+
+## Anthony Picciano
+
+```{image} /images/anthonypicciano.jpg
+:width: 150px
+:align: left
+```
+
+Anthony G., Picciano is Professor at the City University of New York's Hunter College and Graduate Center, USA. He has also held adminstrative appointments includ that of Senior Vice President and Deputy to the President at Hunter College. He has authored or co-authored 20 books, numerous articles, and edited 10 special journal editions. He was a founder and continues to serve on the Board of Directors of the Online Learning Consortium.
+
