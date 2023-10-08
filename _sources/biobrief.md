@@ -2,7 +2,7 @@
 
 # <font color = "maroon"> Podcast Guests</font>
 
-## Patrick Methvin
+## Patrick Methvin (confirmed)
 
 ```{image} /images/patrickmethvin.jpg
 :width: 150px
@@ -64,7 +64,7 @@ Dr. Koedinger has an M.S. in Computer Science, a Ph.D. in Cognitive Psychology, 
 
 ---
 
-## Michael Taft
+## Michael Taft (confirmed)
 
 ```{image} /images/michaeltaft.jpg
 :width: 150px
@@ -102,6 +102,7 @@ Arrun Kapoor is the Managing Director for SJF Ventures’ New York City office. 
 
 Arrun holds a master’s degree in International Political Economics from the London School of Economics and completed a BA from New York University with an economics and business focus.
 
+---
 
 ## Manoj Kulkarni
 
@@ -115,7 +116,7 @@ Manoj earned his Bachelor in Engineering from India’s College of Engineering, 
 
 ---
 
-## Charles Dziuban
+## Charles Dziuban (confirmed)
 
 ```{image} /images/charlesdziuban.jpg
 :width: 150px
@@ -126,7 +127,7 @@ Charles Dziuban is Director of the Research Initiative for Teaching Effectivenes
 
 ---
 
-## Patsy D. Moskal
+## Patsy D. Moskal (confirmed)
 
 ```{image} /images/patsymoskal.png
 :width: 150px
@@ -139,7 +140,7 @@ She holds a MS in Computer Science and a Doctor of Education (Ed.D) in Curriculu
 
 ---
 
-## Anthony Picciano
+## Anthony Picciano (confirmed)
 
 ```{image} /images/anthonypicciano.jpg
 :width: 150px
