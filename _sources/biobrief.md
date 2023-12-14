@@ -15,20 +15,7 @@ Patrick holds an MBA from the Wharton School, a Master in Educational Leadership
 <br><br>
 ___
 
-## Alyssa Wise
-
-```{image} /images/alyssawise.jpg
-:width: 150px
-:align: left
-```
-Alyssa Wise is [Professor of Technology and Education](https://peabody.vanderbilt.edu/bio/?pid=alyssa-wise) and Director of the Learning Incubator: A Vanderbilt Endeavor (LIVE) at Vanderbilt University. Wise’s research combines the tools of data science, the theory of learning sciences and the practices of human-centered design to build and study the use of learning analytics systems that promote equitable and effective education. She also conducts mixed-method investigations about how educational practices are being reshaped by new sources of data and the growing availability of new artificial intelligence capabilities.
-
-Alyssa holds a Ph.D. in learning sciences and M.S. in instructional systems technology from Indiana University, as well as a B.S. in chemistry from Yale University.
-<br><br>
-
----
-
-## Tristan Denley
+## Tristan Denley (confirmed)
 
 ```{image} /images/tristandenley.jpg
 :width: 150px
@@ -38,30 +25,6 @@ Alyssa holds a Ph.D. in learning sciences and M.S. in instructional systems tech
 Tristan Denley currently serves as [Deputy Commissioner for Academic Affairs and Innovation](https://completecollege.org/person/tristan-denley/) at the Louisiana Board of Regents. His work uses a data informed approach to implement a wide variety of state-wide initiatives surrounding college completion, stretching from education redesign in a variety of disciplines, to the role of predictive analytics and data mining, cognitive psychology and behavioral economics in higher education. Amongst his most recent work has been the development and implementation of a comprehensive system-scale student success strategy, the Momentum Year, that transforms developmental education and advising. Implementation of the Momentum Year in Georgia increased system-wide 4yr graduation rates by 20%, and by 30% for African American students.
 
 Tristan earned his PhD in Mathematics from Trinity College Cambridge. 
-
-## Whitney Kilgore
-
-```{image} /images/whitneykilgore.jpg
-:width: 150px
-:align: left
-```
-
-Whitney Kilgore is the Co-Founder and Chief Academic Officer of iDesign, helping universities build, grow and support online and blended courses and program offerings. She also serves as Adjunct Professor at University of North Texas. 
-
-Whitney Kilgore holds a Bachelor of Science in Education and a Master of Science in Curriculum and Instruction from Texas A&M University - Corpus Christi. In 2016, she completed her Doctor of Philosophy in Learning Technologies at University of North Texas.
-<br><br>
-___
-
-## Ken Koedinger
-
-```{image} /images/kenkoedinger.jpg
-:width: 150px
-:align: left
-```
-Kenneth R. Koedinger is a professor of Human Computer Interaction and Psychology at Carnegie Mellon University and Director of LearnLab, which started with 10 years of National Science Foundation funding and now the scientific arm of CMU's Simon Initiative. His multidisciplinary background supports his research goals of understanding human learning and creating educational technologies that increase student achievement. His research has contributed new principles and techniques for the design of educational software and has produced basic cognitive science research results on the nature of student thinking and learning.
-
-Dr. Koedinger has an M.S. in Computer Science, a Ph.D. in Cognitive Psychology, and experience teaching in an urban high school.
-
 ---
 
 ## Michael Taft (confirmed)
@@ -90,21 +53,8 @@ Teresa Martín-Retortillo has been the Executive President of Executive Educatio
 
 Teresa began her professional career at Goldman Sachs as a corporate finance analyst in London. She holds a Bachelor’s degree in Business Administration from CUNEF (Colegio Universitario de Estudios Financieros) in Madrid and an MBA degree from Harvard Business School.
 
----
-## Arrun Kapoor
 
-```{image} /images/arrunkapoor.png
-:width: 150px
-:align: left
-```
-
-Arrun Kapoor is the Managing Director for SJF Ventures’ New York City office.  He has been involved as a Board Director or Observer of Elemeno Health, Rhithm, SchooLinks, Springboard, Catalant, Interplay Learning, Jopwell, Voxy, Portfolium, Civitas Learning, RaiseMe, Think Through Learning, FieldView Solutions, ServiceChannel, Truist, and Ayla Networks. 
-
-Arrun holds a master’s degree in International Political Economics from the London School of Economics and completed a BA from New York University with an economics and business focus.
-
----
-
-## Manoj Kulkarni
+## Manoj Kulkarni (confirmed)
 
 ```{image} /images/manojkulkarni.jpg
 :width: 150px
